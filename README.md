@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bcscott12003
 - 👀 I’m interested in Learning IT.
-- 🌱 I’m currently learning CODING
+- 🌱 I’m currently learning PYTHON CODING
 - 💞️ I’m looking to collaborate on junior level coding projects
 - 📫 How to reach me bcscott12003@gmail.com
 
